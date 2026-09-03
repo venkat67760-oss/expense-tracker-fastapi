@@ -1,6 +1,5 @@
 # Expense Tracker (FastAPI)
-
-Resume-ready Expense Tracker: FastAPI backend with SQLite, tests, Docker, and GitHub Actions CI.
+ Expense Tracker: FastAPI backend with SQLite, tests, Docker, and GitHub Actions CI.
 
 ## One-line summary
 A RESTful Expense Tracker API built with FastAPI and SQLModel (SQLite) that supports user auth, CRUD for expenses & categories, CSV export, and monthly reporting — easy to run locally or in Docker for demos.
